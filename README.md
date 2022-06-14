@@ -4,7 +4,8 @@
 
 ## how to run the codes:
 ```bash
-wsl -- bash -c "cd /mnt/c/Users/joe/Desktop/socket_programming && ./socket_programming.sh"
+wsl -- bash -c "cd /mnt/c/Users/joe/Desktop/gcc file.c -o file"
+                "/mnt/c/Users/joe/Desktop/./file"
 ```
 ## How to install Linux(Ubuntu,Redhat,etc)
 ### <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/chap-simple-install">Install Redhat Linux</a>
