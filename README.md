@@ -1,6 +1,5 @@
 # socket_programming
-<b>Use Linux or WSL to run the codes</b>
-
+## Use Linux or WSL to run the codes
 ## how to install wsl: <a href="https://www.howtogeek.com/howto/205977/how-to-install-windows-subsystem-linux-on-windows-10/">https://www.howtogeek.com/howto/205977/how-to-install-windows-subsystem-linux-on-windows-10/</a>
 
 ## how to run the codes:
